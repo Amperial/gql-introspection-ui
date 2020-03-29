@@ -1,0 +1,1 @@
+This is a dynamic React UI to make GraphQL queries based on introspection schemas.
